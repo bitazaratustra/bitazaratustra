@@ -3,7 +3,7 @@
 ### Data Scientist 
 
 <p align="left">
-  <a href="https://www.lewagon.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/logo.png" alt="lw height="30" width="30" /></a>
+  <a href="https://www.lewagon.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/logo.png" alt="lw height="30" width="30" /> </a>
 </p>
 
 
