@@ -1,4 +1,4 @@
-### Hi there 
+### 
 
 | Data Analysis| Data Science | Database | Others |
 |-------------------|-------------------|---------------------|--------------------|
@@ -7,5 +7,5 @@
 |<p align="center"><img src="https://matplotlib.org/_static/logo_light.svg" alt="Backend3" width="60" height="30"/></p>| <p align="center"><img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Backend2" width="50" height="30"/></p> |  <p align="center"><img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="ds1" width="30" height="30"/></p>  |  <p align="center"><img src="https://cdn.worldvectorlogo.com/logos/google-cloud-1.svg" alt="ds1" width="30" height="30"/></p> |
 |<p align="center"><img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Backend4" width="60" height="30"/></p>| <p align="center"><img src="https://www.gstatic.com/devrel-devsite/prod/vd0b6a72e157acde26de95ec0a4f3c963ef89b26016c053f67be2964730c81ac3/tensorflow/images/lockup.svg" alt="Backend4" width="80" height="30"/></p> |<p align="center"><img src="https://cdn.worldvectorlogo.com/logos/mariadb.svg" width="30" height="30"/></p> | <p align="center"><img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Backend4" width="60" height="30"/></p> |
 |  <p align="center"><img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="Backend3" width="90" height="30"/></p>  | <p align="center"><img src="https://keras.io/img/logo.png" alt="Backend3" width="90" height="30"/></p> |  | <p align="center"><img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="Backend3" width="90" height="30"/></p> |
-| <p align="center"><img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="Backend2" width="30" height="30"/></p> | <p align="center"><img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" width="30" height="30"/></p> |  | |
+| <p align="center"><img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="Backend2" width="30" height="30"/></p> | <p align="center"><img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" width="30" height="30"/></p> |  |  <p align="center"><img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" width="30" height="30"/></p> |
 
