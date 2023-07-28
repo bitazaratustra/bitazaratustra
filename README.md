@@ -1,6 +1,9 @@
 # Hi! I'm Luis Esteban. 😁
 
-### I'm a Data Scientist <p align="center"><img src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/logo.png" alt="lw" width="30" height="30"/></p> with background in Medicine. Critical Care Physician. Also I'm specialist in Forensic Medicine  🧬 🩺 🔬 🤓 🧟‍♂️
+### I'm a Data Scientist 
+<p align="center"><img src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/logo.png" alt="lw" width="30" height="30"/></p>
+
+### Background in Medicine. Critical Care Physician. Also I'm specialist in Forensic Medicine  🧬 🩺 🔬 🤓 🧟‍♂️
 
 ### Right now working as Backend Developer 🦾 💻 
 
