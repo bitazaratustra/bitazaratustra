@@ -2,7 +2,7 @@
 
 ### Data Scientist 
 
-<p href="https://www.lewagon.com/" align="left"><img src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/logo.png" alt="lw" width="30" height="30"/></p>
+<p href="https://www.lewagon.com/" align="left" <img src="https://raw.githubusercontent.com/lewagon/fullstack-images/master/uikit/logo.png" alt="lw" width="30" height="30"/> </p>
 
 
 ### Background in Medicine. Critical Care Physician. Also I'm specialist in Forensic Medicine  🧬 🩺 🔬 🤓 🧟‍♂️
