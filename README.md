@@ -1,9 +1,9 @@
-### Hi! I'm Luis Esteban. 😁
+# Hi! I'm Luis Esteban. 😁
 
-## I'm a Data Scientist with background in Medicine and Critical Care Physician. Also I'm specialist in Forensic Medicine.🧬
-🩺🔬🤓
+## I'm a Data Scientist with background in Medicine and Critical Care Physician. Also I'm specialist in Forensic Medicine  🧬 🩺 🔬 🤓
 
-## Right now working as Backend Developer 🦾💻 .
+## Right now working as Backend Developer 🦾💻 
+
 
 | Data Analysis| Data Science | Database | Others |
 |-------------------|-------------------|---------------------|--------------------|
