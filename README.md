@@ -9,7 +9,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## Tools 
-<p align="left"><img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Linux_logo.jpg" alt="Linux" width="100" height="100"/></p>
+<p align="left"><img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Linux_logo.jpg" alt="Linux" width="100" height="120"/></p>
 
 |  Development |     Data Science        |        Database     |       Others       |
 |--------------|-------------------------|---------------------|--------------------|
