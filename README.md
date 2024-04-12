@@ -9,7 +9,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## Tools 
-<p align="left"><img src="[https://www.linux.it/assets/images/logo.png](https://www.google.com/imgres?q=linux%20logo%20linux%20image&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fd%2Fdd%2FLinux_logo.jpg&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALinux_logo.jpg&docid=JmzMtaH6fHU2VM&tbnid=N7Nhx_w9SsvhgM&vet=12ahUKEwimp4Pf_LyFAxVSppUCHTcSAgkQM3oECB8QAA..i&w=421&h=500&hcb=2&ved=2ahUKEwimp4Pf_LyFAxVSppUCHTcSAgkQM3oECB8QAA)" alt="Linux" width="100" height="100"/></p>
+<p align="left"><img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Linux_logo.jpg" alt="Linux" width="100" height="100"/></p>
 
 |  Development |     Data Science        |        Database     |       Others       |
 |--------------|-------------------------|---------------------|--------------------|
